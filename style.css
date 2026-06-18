@@ -1,5 +1,4 @@
-/* Reset and Base Styles */
-* {
+ {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -22,7 +21,6 @@ header h1 {
     margin-bottom: 5px;
 }
 
-/* Layout Architecture */
 .container {
     display: flex;
     flex-direction: row;
@@ -39,7 +37,6 @@ header h1 {
     flex: 1;
 }
 
-/* Form Styles */
 .form-group {
     margin-bottom: 15px;
 }
@@ -79,7 +76,6 @@ button:hover {
     background-color: #1d4ed8;
 }
 
-/* Table Design */
 table {
     width: 100%;
     border-collapse: collapse;
